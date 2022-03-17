@@ -1,8 +1,7 @@
 
 
-<p align=”center”>
 <img src=”https://user-images.githubusercontent.com/97243628/158803056-6e1418dc-5d11-4cce-a0f9-8db4c3f5d7ad.PNG" alt=”my banner”>
-</p>
+
 
 
 
