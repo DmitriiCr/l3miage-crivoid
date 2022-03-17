@@ -16,4 +16,4 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 <h1> The Languages I use </h1> 
-<img alt=”C” src=”https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
