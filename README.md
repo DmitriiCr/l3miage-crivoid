@@ -15,5 +15,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
-<h1> The Languages I use </h1> 
-<img (https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)/>
+<h1> The Languages I worked with </h1> 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
