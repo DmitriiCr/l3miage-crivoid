@@ -2,9 +2,9 @@
 
 
 - 👋
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Angular and Spring BOOT utilisation
+- 💞️ I’m looking for an internship for at least 8 weeks 
 - 📫 How to reach me --> dmitrii.crivoi@univ-grenoble-alpes.fr
 
  MY different tools </br>
