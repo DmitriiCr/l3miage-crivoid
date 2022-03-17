@@ -8,4 +8,5 @@
 l3miage-crivoid/l3miage-crivoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/97243628/158800765-c0b2b4ed-5ee9-4257-bc8e-6d74de459a65.png)
+![image](https://user-images.githubusercontent.com/97243628/158800898-7701ca59-77ae-4576-982c-563cc35fa2a8.png)
+
