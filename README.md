@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @l3miage-crivoid
+
+
+
+![MybannerGitPNG](https://user-images.githubusercontent.com/97243628/158802371-3a500895-b493-4f37-804b-8124a8126667.PNG)
+
+
+
+- 👋 Hi, I’m Dmitrii Student in third year at computer science 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
