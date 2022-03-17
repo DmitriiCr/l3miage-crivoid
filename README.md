@@ -39,5 +39,5 @@
 </br>
 </br>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=l3miage-crivoid)](https://github.com/l3miage-crivoid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3miage-crivoid&layout=compact)](https://github.com/l3miage-crivoid)
