@@ -1,11 +1,12 @@
 
 
-
-![MybannerGitPNG](https://user-images.githubusercontent.com/97243628/158802371-3a500895-b493-4f37-804b-8124a8126667.PNG)
-
+![FitBanner](https://user-images.githubusercontent.com/97243628/158803056-6e1418dc-5d11-4cce-a0f9-8db4c3f5d7ad.PNG)
 
 
-- 👋 Hi, I’m Dmitrii Student in third year at computer science 
+
+
+
+- 👋
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
